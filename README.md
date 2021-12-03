@@ -9,3 +9,7 @@ Clone this project in your favourite IDE and use Live server to check output.
 ## Libraries and API's
 In this project, Official Final Space API is used.
 API: Its available on this web: https://finalspaceapi.com/
+
+## Fonts
+- Oswald
+- Outfit
